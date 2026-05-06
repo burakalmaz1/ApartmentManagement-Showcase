@@ -77,9 +77,6 @@ This repository is prepared as a **showcase repository** to present the project 
   <img src="screenshots/ApartmentDetails.jpg" width="220" alt="Apartment Details Screen" />
   <img src="screenshots/Announcement.jpg" width="220" alt="Announcement Screen" />
   <img src="screenshots/ApartmentAnnouncement.jpg" width="220" alt="Apartment Announcement Screen" />
-</p>
-
-<p align="center">
   <img src="screenshots/PastAnnouncement.jpg" width="220" alt="Past Announcement Screen" />
 </p>
 
