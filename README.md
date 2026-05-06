@@ -59,6 +59,7 @@ This repository is prepared as a **showcase repository** to present the project 
 ### Authentication
 
 <p align="center">
+  <img src="screenshots/Main.jpg" width="220" alt="Main Screen" />
   <img src="screenshots/LoginPage.jpg" width="220" alt="Login Page" />
   <img src="screenshots/RegisterPage.jpg" width="220" alt="Register Page" />
 </p>
@@ -66,14 +67,13 @@ This repository is prepared as a **showcase repository** to present the project 
 ### Main Screens
 
 <p align="center">
-  <img src="screenshots/Main.jpg" width="220" alt="Main Screen" />
   <img src="screenshots/RootManagerPage.jpg" width="220" alt="Root Manager Page" />
-  <img src="screenshots/MyApartments.jpg" width="220" alt="My Apartments Screen" />
 </p>
 
 ### Apartment & Announcements
 
 <p align="center">
+  <img src="screenshots/MyApartments.jpg" width="220" alt="My Apartments Screen" />
   <img src="screenshots/ApartmentDetails.jpg" width="220" alt="Apartment Details Screen" />
   <img src="screenshots/Announcement.jpg" width="220" alt="Announcement Screen" />
   <img src="screenshots/ApartmentAnnouncement.jpg" width="220" alt="Apartment Announcement Screen" />
