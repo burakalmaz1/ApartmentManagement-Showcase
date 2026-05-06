@@ -45,4 +45,5 @@ This application was built to simplify apartment and site management workflows i
 
 ## Screenshots
 
-> Screenshots of the application will be added here.
+
+
