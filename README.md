@@ -91,13 +91,15 @@ This repository is prepared as a **showcase repository** to present the project 
 ### Dues Management
 
 <p align="center">
-  <img src="screenshots/Dues.jpg" width="220" alt="Dues Screen" />
-  <img src="screenshots/DuesComfirm.jpg" width="220" alt="Dues Confirm Screen" />
   <img src="screenshots/DuesSettings.jpg" width="220" alt="Dues Settings Screen" />
+  <img src="screenshots/Dues.jpg" width="220" alt="Dues Screen" />
+  <img src="screenshots/DuestDetails.jpg" width="220" alt="Dues Details Screen" />
+  
+  
 </p>
 
 <p align="center">
-  <img src="screenshots/DuestDetails.jpg" width="220" alt="Dues Details Screen" />
+  <img src="screenshots/DuesComfirm.jpg" width="220" alt="Dues Confirm Screen" />
 </p>
 ---
 
