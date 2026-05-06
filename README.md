@@ -83,9 +83,9 @@ This repository is prepared as a **showcase repository** to present the project 
 ### Requests
 
 <p align="center">
+  <img src="screenshots/ActiveRequestDetails.jpg" width="220" alt="Active Request Details Screen" />
   <img src="screenshots/RequestPage.jpg" width="220" alt="Request Page" />
   <img src="screenshots/RequestDetails.jpg" width="220" alt="Request Details Screen" />
-  <img src="screenshots/ActiveRequestDetails.jpg" width="220" alt="Active Request Details Screen" />
 </p>
 
 ### Dues Management
