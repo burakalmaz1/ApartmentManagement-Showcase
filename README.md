@@ -92,7 +92,7 @@ This repository is prepared as a **showcase repository** to present the project 
 
 <p align="center">
   <img src="screenshots/Dues.jpg" width="220" alt="Dues Screen" />
-  <img src="screenshots/DuesConfirm.jpg" width="220" alt="Dues Confirm Screen" />
+  <img src="screenshots/DuesComfirm.jpg" width="220" alt="Dues Confirm Screen" />
   <img src="screenshots/DuesSettings.jpg" width="220" alt="Dues Settings Screen" />
 </p>
 
