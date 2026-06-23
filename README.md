@@ -56,52 +56,63 @@ This repository is prepared as a **showcase repository** to present the project 
 
 ## Screenshots
 
+### Store Preview & App Introduction
+
+<p align="center">
+  <img src="screenshots/AptivaFeatureGraphic.png" width="700" alt="Aptiva Feature Graphic" />
+</p>
+
 ### Authentication
 
 <p align="center">
-  <img src="screenshots/Main.jpg" width="220" alt="Main Screen" />
-  <img src="screenshots/LoginPage.jpg" width="220" alt="Login Page" />
-  <img src="screenshots/RegisterPage.jpg" width="220" alt="Register Page" />
+  <img src="screenshots/AptivaLoginPromo.png" width="260" alt="Aptiva Login Screen" />
 </p>
 
-### Main Screens
+### Resident Panel
 
 <p align="center">
-  <img src="screenshots/RootManagerPage.jpg" width="220" alt="Root Manager Page" />
+  <img src="screenshots/AptivaResidentPanelPromo.png" width="260" alt="Aptiva Resident Panel" />
 </p>
 
-### Apartment & Announcements
+### Manager Panel
 
 <p align="center">
-  <img src="screenshots/MyApartments.jpg" width="220" alt="My Apartments Screen" />
-  <img src="screenshots/ApartmentDetails.jpg" width="220" alt="Apartment Details Screen" />
-  <img src="screenshots/Announcement.jpg" width="220" alt="Announcement Screen" />
-  <img src="screenshots/ApartmentAnnouncement.jpg" width="220" alt="Apartment Announcement Screen" />
-  <img src="screenshots/PastAnnouncement.jpg" width="220" alt="Past Announcement Screen" />
+  <img src="screenshots/AptivaManagerPanelPromo.png" width="260" alt="Aptiva Manager Panel" />
+</p>
+
+### Announcements
+
+<p align="center">
+  <img src="screenshots/AptivaAnnouncementsPromo.png" width="260" alt="Aptiva Announcements Screen" />
 </p>
 
 ### Requests
 
 <p align="center">
-  <img src="screenshots/ActiveRequestDetails.jpg" width="220" alt="Active Request Details Screen" />
-  <img src="screenshots/RequestPage.jpg" width="220" alt="Request Page" />
-  <img src="screenshots/RequestDetails.jpg" width="220" alt="Request Details Screen" />
+  <img src="screenshots/AptivaRequestsPromo.png" width="260" alt="Aptiva Requests Screen" />
 </p>
 
-### Dues Management
+### Dues Tracking
 
 <p align="center">
-  <img src="screenshots/DuesSettings.jpg" width="220" alt="Dues Settings Screen" />
-  <img src="screenshots/Dues.jpg" width="220" alt="Dues Screen" />
-  <img src="screenshots/DuestDetails.jpg" width="220" alt="Dues Details Screen" />
-  
-  
+  <img src="screenshots/AptivaDuesTrackingPromo.png" width="260" alt="Aptiva Dues Tracking Screen" />
+  <img src="screenshots/AptivaDuesInfoPromo.png" width="260" alt="Aptiva Dues Information Screen" />
 </p>
 
+### User Management
+
 <p align="center">
-  <img src="screenshots/DuesComfirm.jpg" width="220" alt="Dues Confirm Screen" />
+  <img src="screenshots/AptivaUserManagementPromo.png" width="260" alt="Aptiva User Management Screen" />
 </p>
+
+### Tablet Preview
+
+<p align="center">
+  <img src="screenshots/AptivaTabletLoginPromo.png" width="420" alt="Aptiva Tablet Login Preview" />
+</p>
+
 ---
+
 
 ## Project Purpose
 
